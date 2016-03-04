@@ -3,6 +3,7 @@ class RobotFramework < Formula
   homepage "http://robotframework.org/"
   url "https://github.com/robotframework/robotframework/archive/3.0.tar.gz"
   sha256 "1b830fa5e4470ff6b2d404bd99b357cfce4a2abd15c255373045a77d44e517a5"
+  revision 1
 
   head "https://github.com/robotframework/robotframework.git", :branch => "master"
   bottle do
